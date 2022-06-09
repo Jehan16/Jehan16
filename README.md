@@ -3,7 +3,7 @@
 
 A passionate learner 🎓. An inquisitive person and a bibliophile 📖.
 
-###Skills: 
+### Skills: 
 Python / C / C++ / JS / HTML / CSS / kali linux / Ethical Hacking 
 
 - 🌱 I’m currently learning Software Engineering 
