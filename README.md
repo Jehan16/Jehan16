@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Jehan Silva
-<img src="https://github.com/Jehan16/Jehan16/blob/main/digits.gif" width="1000" height="10" />
+<img src="https://github.com/Jehan16/Jehan16/blob/main/digits.gif" width="1000" height="50" />
 
 ### Skills: 
 Python / C / C++ / JS / HTML / CSS / kali linux / Ethical Hacking 
