@@ -1,10 +1,10 @@
-![I am a software Engineering Undergraduate](https://media-exp1.licdn.com/dms/image/C5616AQF7P-UOegBa1Q/profile-displaybackgroundimage-shrink_350_1400/0/1630773215740?e=1660176000&v=beta&t=QBKDXaya6qn-9wxTH-N4SIm9ELJtxaqdFR13mX6joKw)
 ### Hi there 👋, I'm Jehan Silva
-#### I am a software Engineering Undergraduate
+#### I am a software Engineering Undergraduate at SLIIT
 
 A passionate learner 🎓. An inquisitive person and a bibliophile 📖.
 
-Skills: Python / C / C++ / JS / HTML / CSS / kali linux / Ethical Hacking 
+###Skills: 
+Python / C / C++ / JS / HTML / CSS / kali linux / Ethical Hacking 
 
 - 🌱 I’m currently learning Software Engineering 
 - 📫 How to reach me: jehanshenil16@gmail.com 
