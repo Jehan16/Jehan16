@@ -6,9 +6,16 @@
 
 ###
 
-<p align="left">🖥️ A passionate self-taught software developer<br>👯 I’m looking to collaborate on building new projects<br>🌱 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering<br>Check out my [portfolio](https://jehan-silva-portfolio.vercel.app/).</p>
+<p align="left">
+🖥️ A passionate self-taught software developer<br>
+👯 I’m looking to collaborate on building new projects<br>
+🌱 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering<br>
+🗃️ Check out my [portfolio](https://jehan-silva-portfolio.vercel.app/)
+</p>
 
-###
+<br>
+
+### 📱 Socials
 
 <div align="center">
   <a href="https://linkedin.com/in/https://linkedin.com/in/jehan-silva-aa9a141ba" target="_blank">
@@ -26,18 +33,12 @@
   <a href="https://discord.gg/https://discord.gg/Jehan#6949" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://youtube.com/@https://youtube.com/@@jehanshenil3999" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/https://instagram.com/_jehannn_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/https://x.com/Jehan28298804" target="_blank">
+<a href="https://x.com/https://x.com/Jehan28298804" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
-###
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -129,9 +130,9 @@
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
 </div>
 
-###
+### :fire: My Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jehan16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Jehan16&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jehan16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
@@ -139,11 +140,9 @@
 
 ###
 
-<p align="center">Profile views</p>
+### 🔍 Profile views
 
-###
-
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/Jehan16/count.svg?"  />
 </div>
 
