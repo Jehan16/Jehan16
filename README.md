@@ -10,10 +10,9 @@
 🖥️ A passionate self-taught software developer<br>
 👯 I’m looking to collaborate on building new projects<br>
 🌱 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering<br>
-🗃️ Check out my [portfolio](https://jehan-silva-portfolio.vercel.app/)
 </p>
 
-<br>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
 ### 📱 Socials
 
@@ -21,21 +20,22 @@
   <a href="https://linkedin.com/in/https://linkedin.com/in/jehan-silva-aa9a141ba" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  &nbsp;
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16885090" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
   <a href="https://codepen.io/https://codepen.io/jehan16" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/jehanshenil16" target="_blank">
+  <a href="https://www.hackerrank.com/profile/jehanshenil16" target="">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="https://discord.gg/https://discord.gg/Jehan#6949" target="_blank">
+  <a href="https://discord.gg/https://discord.gg/Jehan#6949" target="">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-<a href="https://x.com/https://x.com/Jehan28298804" target="_blank">
+<!-- <a href="https://x.com/https://x.com/Jehan28298804" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+  </a> -->
 </div>
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack
