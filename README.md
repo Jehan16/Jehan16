@@ -1,4 +1,4 @@
-<h2 align="center">Hi , I'm Jehan Silva 👋</h2>
+<h2 align="center">Hi , I'm Jehan Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🖥️ A passionate self-taught backend developer<br>👯 I’m looking to collaborate on building new projects<br>🌱 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering</p>
+<p align="left">🖥️ A passionate self-taught software developer<br>👯 I’m looking to collaborate on building new projects<br>🌱 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering<br>Check out my [portfolio](https://jehan-silva-portfolio.vercel.app/).</p>
 
 ###
 
