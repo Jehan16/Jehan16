@@ -12,7 +12,7 @@
 🎓 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering<br>
 </p>
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jehan-silva-portfolio.vercel.app/)
 
 ### 📱 Connect with me</h3>
 
