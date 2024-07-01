@@ -6,20 +6,17 @@
 
 ###
 
-<p align="center">
+<p align="left">
 🖥️ A passionate self-taught software developer<br>
 👯 I’m looking to collaborate on building new projects<br>
-🎓 I’m currently learning BSc (Hons) in Information Technology <br>Specialising in Software Engineering<br>
+🎓 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering<br>
 </p>
 
-<div align="center">
-  
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-</div>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
-<h3 align="center">📱 Connect with me</h3>
+### 📱 Connect with me</h3>
 
-<p align="center">
+<p align="left">
 <a href="https://codepen.io/jehan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jehan16" height="30" width="40" /></a>
 <a href="https://twitter.com/jehan28298804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jehan28298804" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jehan-silva-aa9a141ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jehan-silva-aa9a141ba" height="30" width="40" /></a>
@@ -30,7 +27,7 @@
 <a href="https://www.hackerrank.com/jehanshenil16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jehanshenil16" height="30" width="40" /></a>
 </p>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> &nbsp;Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
