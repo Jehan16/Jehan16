@@ -12,8 +12,8 @@
 🎓 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering<br>
 </p>
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jehan-silva-portfolio.vercel.app/) <br>
-[![portfolio](https://img.shields.io/badge/view_my_cv-000?style=for-the-badge&logo=Trello&logoColor=white)]([https://jehan-silva-portfolio.vercel.app/](https://www.canva.com/design/DAEecAsU64I/JOpXxNLyGsdzMH2F4tryrA/view?utm_content=DAEecAsU64I&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jehan-silva-portfolio.vercel.app/)  
+[![viewcv](https://img.shields.io/badge/view_my_cv-000?style=for-the-badge&logo=Trello&logoColor=white)](https://www.canva.com/design/DAEecAsU64I/JOpXxNLyGsdzMH2F4tryrA/view?utm_content=DAEecAsU64I&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### 📱 Connect with me</h3>
 
