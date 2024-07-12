@@ -119,7 +119,7 @@
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
 </div>
 
-### <img src="https://media.giphy.com/media/D0JEqwGIb0bu90HCIB/giphy.gif?cid=ecf05e47uftuzkdwkcfteptwc6b5utwxsuf3sj5vhtwezz98&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"> My Stats
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXM0NXBuejRsZmxjN2gydzUzdTNicDg4bnB3dWhreWw3dDR4bWI5eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ewh4ipgPw1bBVj4HI5/giphy.gif" width="35"> My Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jehan16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
