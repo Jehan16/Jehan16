@@ -7,15 +7,15 @@
 ###
 
 <p align="left">
-🖥️ A passionate self-taught software developer<br>
-👯 I’m looking to collaborate on building new projects<br>
-🎓 I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlub3k2N3c3NXM1cnV6NGhydHo4aWRubHlrdXR1anFtejZhcmhyeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="20"> A passionate self-taught software developer<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmswb3F0NGZlNWlsa2hheG91d3ZueWRua3FzeXp3c2tpdWY1aWMwaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="20"> I’m looking to collaborate on building new projects<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl2ZnJvazNlanRzemlxeTZwNTZxa2JjanVtNDJ2OXdhdnpvNWJjNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1etn2BmiW0nOgoZHTL/giphy.gif" width="20"> I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering<br>
 </p>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jehan-silva-portfolio.vercel.app/)  
 [![viewcv](https://img.shields.io/badge/view_my_cv-000?style=for-the-badge&logo=Trello&logoColor=white)](https://www.canva.com/design/DAEecAsU64I/JOpXxNLyGsdzMH2F4tryrA/view?utm_content=DAEecAsU64I&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-### 📱 Connect with me</h3>
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTB3NzRhOGp3MHY3bDY4em1naG1paGozMzI3MGNqbHp1d3pwd2RsZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yN4psF1lMgoaePuOyF/giphy.gif" width="35"> Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/jehan-silva-aa9a141ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jehan-silva-aa9a141ba" height="30" width="40" /></a>
@@ -119,7 +119,7 @@
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
 </div>
 
-### :fire: My Stats
+### <img src="https://media.giphy.com/media/D0JEqwGIb0bu90HCIB/giphy.gif?cid=ecf05e47uftuzkdwkcfteptwc6b5utwxsuf3sj5vhtwezz98&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"> My Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jehan16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -129,7 +129,7 @@
 
 ###
 
-### 🔍 Profile views
+### <img src="https://media.giphy.com/media/1pUvx2WHilZYxZ60e1/giphy.gif?cid=790b7611mfzwfwqzvdba76pwouq6whyip177lzveytjdmvvp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"> Profile views
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/Jehan16/count.svg?"  />
